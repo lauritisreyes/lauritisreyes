@@ -8,7 +8,7 @@
 
 - 👁 See my professional profile [LinkedIn](https://www.linkedin.com/in/laura-reyes-sanz/)
 
-- 📫 Say howdly: **info@lauritisreyes.com**
+- 📫 Say howdly: **laura.reyessb@gmail.com**
 
 
 ![Screenshoot](https://github.com/lauritisreyes/lauritisreyes/blob/main/web-header.jpg)
