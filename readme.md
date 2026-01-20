@@ -4,7 +4,7 @@
 
 - 🖥 I am a UX Engineer
 
-- 👨‍💻 Visit my live porfolio [https://www.lauritisreyes.com](https://www.lauritisreyes.com)
+- 👨‍💻 Visit my live porfolio [https://lauritisreyes.github.io/porfolio/](https://lauritisreyes.github.io/porfolio/)
 
 - 👁 See my professional profile [LinkedIn](https://www.linkedin.com/in/laura-reyes-sanz/)
 
