@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am LAURA REYES</h1>
 <h3 align="center">Who I am?</h3>
 
-- 🖥 I am a UX Engineer
+- 🖥 I am a Industrial Design Engineer
 
 - 👨‍💻 Visit my live porfolio [https://lauritisreyes.github.io/porfolio/](https://lauritisreyes.github.io/porfolio/)
 
